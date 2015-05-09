@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object name="sSerializable" declaretype="struct" type="serializable">
+    <Member name="Member0" declaretype="uint8_t" size="1" type="basic" />
+    <Member name="Member1" declaretype="uint32_t" size="4" type="basic" />
+    <Member name="Member2" declaretype="sOther" type="serializable" />
+</Object>
